@@ -1,6 +1,6 @@
 {
   "name": "yuchenmodule",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "公共方法、组件库",
   "main": "index.js",
   "scripts": {
